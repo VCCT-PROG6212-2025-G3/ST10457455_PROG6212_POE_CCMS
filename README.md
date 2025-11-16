@@ -1,4 +1,4 @@
-# 📘 Claim Capture Management System (CCMS)
+# 📘 Contract Monthly Claim System (CMCS)
 ### PROG6212 — Portfolio of Evidence (Part 3)  
 **Student:** James Baker (ST10457455)
 
@@ -134,44 +134,6 @@ Copy code
 
 ---
 
-## 📸 Screenshots Required
-
-### 1️⃣ EF Core Registration (Program.cs)
-*Insert screenshot here*  
-**Caption:** Figure 1 – EF Core and SQLite configuration.
-
----
-
-### 2️⃣ SQLite Database Diagram
-*Insert screenshot here*  
-**Caption:** Figure 2 – Database tables (Contractors, Contracts, MonthlyClaims).
-
----
-
-### 3️⃣ Contractor CRUD Pages
-*Insert screenshots*  
-**Caption:** Figure 3 – Contractor management (List, Create, Edit).
-
----
-
-### 4️⃣ Contract CRUD Pages
-*Insert screenshots*  
-**Caption:** Figure 4 – Contract management pages.
-
----
-
-### 5️⃣ Monthly Claims Pages
-*Insert screenshots*  
-**Caption:** Figure 5 – Monthly claims with automatic totals.
-
----
-
-### 6️⃣ Summary Page
-*Insert screenshot*  
-**Caption:** Figure 6 – Summary LINQ view.
-
----
-
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Restore Dependencies
@@ -193,7 +155,7 @@ yaml
 Copy code
 
 The website will launch at:  
-- http://localhost:5000  
+- http://localhost:5012  
 - https://localhost:7000  
 
 ---
@@ -214,7 +176,8 @@ This project includes:
 👉 *Paste your YouTube link here*
 
 ### 🖥 PowerPoint Presentation
-👉 *Paste your PowerPoint (.pptx) link here*
+👉 [ST10457455_PROG6212_Presentation.pptx](https://github.com/user-attachments/files/23566773/ST10457455_PROG6212_Presentation.pptx)
+
 
 ---
 
@@ -241,3 +204,4 @@ This project demonstrates:
 ✔ Meets POE requirements  
 
 ---
+
