@@ -173,7 +173,7 @@ This project includes:
 ## 🎤 Presentation & Video Links
 
 ### 🎞 YouTube Demonstration
-👉 *Paste your YouTube link here*
+👉 https://youtu.be/EgOLp2_U6L4
 
 ### 🖥 PowerPoint Presentation
 👉 [ST10457455_PROG6212_Presentation.pptx](https://github.com/user-attachments/files/23566773/ST10457455_PROG6212_Presentation.pptx)
@@ -204,4 +204,5 @@ This project demonstrates:
 ✔ Meets POE requirements  
 
 ---
+
 
